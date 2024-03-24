@@ -1,12 +1,37 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-namespace TechStoreWebApplication.Controllers.Home
+﻿namespace TechStoreWebApplication.Controllers.Home
 {
-    public class HomeController : Controller
-    {
-        public IActionResult Index()
-        {
-            return View();
-        }
-    }
+	#region
+	using Microsoft.AspNetCore.Mvc;
+	#endregion
+
+	/// <summary></summary>
+	public class HomeController : Controller
+	{
+		//-------------------------
+		//Constants:
+		//-------------------------
+
+		//-------------------------
+		//Members:
+		//-------------------------
+
+		//-------------------------
+		//Properties:
+		//-------------------------
+
+		//-------------------------
+		//Constructor/Destructor:
+		//-------------------------
+
+		//-------------------------
+		//Methods:
+		//-------------------------
+		public IActionResult Index()
+		{
+			return View();
+		}
+		//-------------------------
+		//Overrides:
+		//-------------------------
+	}
 }

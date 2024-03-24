@@ -1,0 +1,16 @@
+﻿body {
+  background-color: #171715;
+}
+
+.btn {
+  border-color: #11b3d4;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link :hover {
+  text-decoration: underline;
+}
