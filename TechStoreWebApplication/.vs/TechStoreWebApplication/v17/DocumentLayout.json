@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\pavel\\documents\\github\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\pavel\\documents\\github\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\techstorewebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\techstorewebapplication\\models\\webappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\webappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\techstorewebapplication\\techstorewebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\techstorewebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\techstorewebapplication\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\MockUserRepository.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\MockUserRepository.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\MockUserRepository.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\MockUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:19:48.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\IUserRepository.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:40:21.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\WebAppDbContext.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\WebAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\WebAppDbContext.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\WebAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:45:28.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\User.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:03:27.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:04:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechStoreWebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\TechStoreWebApplication.csproj",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
+              "RelativeToolTip": "TechStoreWebApplication\\TechStoreWebApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T19:03:32.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
