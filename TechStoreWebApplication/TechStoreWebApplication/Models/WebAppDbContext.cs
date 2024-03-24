@@ -1,16 +1,42 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace TechStoreWebApplication.Models
+﻿namespace TechStoreWebApplication.Models
 {
+    #region
+    using Microsoft.EntityFrameworkCore;
+    #endregion
+
+    /// <summary></summary>
     public class WebAppDbContext : DbContext
     {
-        public WebAppDbContext(DbContextOptions<WebAppDbContext> options) 
+        //-------------------------
+        //Constants:
+        //-------------------------
+
+        //-------------------------
+        //Members:
+        //-------------------------
+        public DbSet<User> Users { get; set; }
+
+        //-------------------------
+        //Properties:
+        //-------------------------
+
+        //-------------------------
+        //Constructor/Destructor:
+        //-------------------------
+        public WebAppDbContext(DbContextOptions<WebAppDbContext> options)
             : base(options)
         {
-            
         }
 
-        public DbSet<User> Users {  get; set; }
+        //-------------------------
+        //Methods:
+        //-------------------------
+
+        //-------------------------
+        //Overrides:
+        //-------------------------
+
+       
 
     }
 }

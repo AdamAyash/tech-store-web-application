@@ -1,29 +1,40 @@
 using System;
 
-
 public class User
 {
-    public int Id { get; set; }
+    //-------------------------
+    //Constants:
+    //-------------------------
+
+    //-------------------------
+    //Members:
+    //-------------------------
+
+    //-------------------------
+    //Properties:
+    //-------------------------
+    public int ID { get; set; }
     public string Username { get; set; }
     public string Password { get; set; }
     public string Email { get; set; }
 
+    //-------------------------
+    //Constructor/Destructor:
+    //-------------------------
 
-    public User (int id, string username, string password, string email)
+    public User(int ID, string username, string password, string email)
     {
-        Id = id;
-        Username = username;
-        Password = password;
-        Email = email;
+        this.ID = ID;
+        this.Username = username;
+        this.Password = password;
+        this.Email = email;
     }
 
-    //public void PrintModelsInfo()
-    //{
-        //Console.WriteLine($"User ID: {Id}");
-        //Console.WriteLine($"Username: {Username}");
-        //Console.WriteLine($"Password: {Password}");
-        //Console.WriteLine($"Email: {Email}");
-    //}
-        
+    //-------------------------
+    //Methods:
+    //-------------------------
 
+    //-------------------------
+    //Overrides:
+    //-------------------------
 }
