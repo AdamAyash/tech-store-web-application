@@ -245,12 +245,17 @@ C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplica
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStoreWebApplication.RazorAssemblyInfo.cache
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStoreWebApplication.RazorAssemblyInfo.cs
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStoreWebApplication.sourcelink.json
+C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.TechStoreWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.TechStoreWebApplication.props
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TechStoreWebApplication.props
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TechStoreWebApplication.props
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\scopedcss\bundle\TechStoreWebApplication.styles.css
+C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStor.EA39E052.Up2Date
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStoreWebApplication.dll
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\refint\TechStoreWebApplication.dll
 C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStoreWebApplication.pdb
+C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\TechStoreWebApplication.genruntimeconfig.cache
+C:\Users\mobir\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\obj\Debug\net8.0\ref\TechStoreWebApplication.dll

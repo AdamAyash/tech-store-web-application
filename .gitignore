@@ -2,3 +2,7 @@
 *.vsidx
 *.v2
 TechStoreWebApplication/TechStoreWebApplication/bin/Debug/net8.0/Azure.Core.dll
+TechStoreWebApplication/.vs/TechStoreWebApplication/v17/.futdcache.v2
+TechStoreWebApplication/.vs/TechStoreWebApplication/DesignTimeBuild/.dtbcache.v2
+/TechStoreWebApplication/.vs/ProjectEvaluation
+/TechStoreWebApplication/.vs
