@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "5K6ajehmBc8uALMl8xk/Vw/GTmNh85l/rHoYzCu+u7w=",
+=======
+  "Hash": "0oy4ykemLbHsXQb9TR1kktW5UT0jtXfkU/+9rvhGA9I=",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
   "Source": "TechStoreWebApplication",
   "BasePath": "_content/TechStoreWebApplication",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "TechStoreWebApplication\\wwwroot",
       "Source": "TechStoreWebApplication",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +51,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -55,10 +77,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -74,10 +103,55 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\image.jpg",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\CardExample.jpg",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+      "BasePath": "_content/TechStoreWebApplication",
+      "RelativePath": "Images/CardExample.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\CardExample.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\computer.png",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+      "BasePath": "_content/TechStoreWebApplication",
+      "RelativePath": "Images/computer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\computer.png"
+    },
+    {
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\image.jpg",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "Images/image.jpg",
       "AssetKind": "All",
@@ -93,10 +167,17 @@
       "OriginalItemSpec": "wwwroot\\Images\\image.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -112,10 +193,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -131,10 +219,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -150,10 +245,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -169,10 +271,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -188,10 +297,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -207,10 +323,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -226,10 +349,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -245,10 +375,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -264,10 +401,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -283,10 +427,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -302,10 +453,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -321,10 +479,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -340,10 +505,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -359,10 +531,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -378,10 +557,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -397,10 +583,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -416,10 +609,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -435,10 +635,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -454,10 +661,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -473,10 +687,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -492,10 +713,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -511,10 +739,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -530,10 +765,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -549,10 +791,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -568,10 +817,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -587,10 +843,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -606,10 +869,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -625,10 +895,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -644,10 +921,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +947,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -682,10 +973,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -701,10 +999,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -720,10 +1025,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -739,10 +1051,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -758,10 +1077,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -777,10 +1103,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -796,10 +1129,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -815,10 +1155,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -834,10 +1181,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -853,10 +1207,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -872,10 +1233,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -891,10 +1259,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -910,10 +1285,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -929,10 +1311,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -948,10 +1337,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_accordion.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -967,10 +1363,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_alert.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -986,10 +1389,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_badge.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -1005,10 +1415,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -1024,10 +1441,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_button-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -1043,10 +1467,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_buttons.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -1062,10 +1493,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_card.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -1081,10 +1519,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_carousel.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -1100,10 +1545,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_close.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -1119,10 +1571,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_containers.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -1138,10 +1597,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -1157,10 +1623,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_forms.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -1176,10 +1649,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_functions.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -1195,10 +1675,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_grid.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -1214,10 +1701,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_helpers.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -1233,10 +1727,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_images.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -1252,10 +1753,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_list-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_maps.scss",
       "AssetKind": "All",
@@ -1271,10 +1779,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_maps.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -1290,10 +1805,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_mixins.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -1309,10 +1831,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_modal.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -1328,10 +1857,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_nav.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1347,10 +1883,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_navbar.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -1366,10 +1909,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -1385,10 +1935,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_pagination.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_placeholders.scss",
       "AssetKind": "All",
@@ -1404,10 +1961,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -1423,10 +1987,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_popover.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -1442,10 +2013,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_progress.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -1461,10 +2039,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_reboot.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1480,10 +2065,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_root.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1499,10 +2091,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_spinners.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1518,10 +2117,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tables.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -1537,10 +2143,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_toasts.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -1556,10 +2169,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -1575,10 +2195,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_transitions.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -1594,10 +2221,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_type.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1613,10 +2247,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_utilities.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -1632,10 +2273,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/_variables-dark.scss",
       "AssetKind": "All",
@@ -1651,10 +2299,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1670,10 +2325,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1689,10 +2351,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1708,10 +2377,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -1727,10 +2403,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -1746,10 +2429,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -1765,10 +2455,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -1784,10 +2481,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -1803,10 +2507,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -1822,10 +2533,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -1841,10 +2559,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -1860,10 +2585,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -1879,10 +2611,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -1898,10 +2637,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -1917,10 +2663,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_color-bg.scss",
       "AssetKind": "All",
@@ -1936,10 +2689,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -1955,10 +2715,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_focus-ring.scss",
       "AssetKind": "All",
@@ -1974,10 +2741,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_icon-link.scss",
       "AssetKind": "All",
@@ -1993,10 +2767,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -2012,10 +2793,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -2031,10 +2819,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_stacks.scss",
       "AssetKind": "All",
@@ -2050,10 +2845,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -2069,10 +2871,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -2088,10 +2897,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2107,10 +2923,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/helpers/_vr.scss",
       "AssetKind": "All",
@@ -2126,10 +2949,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -2145,10 +2975,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_backdrop.scss",
       "AssetKind": "All",
@@ -2164,10 +3001,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_banner.scss",
       "AssetKind": "All",
@@ -2183,10 +3027,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -2202,10 +3053,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -2221,10 +3079,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -2240,10 +3105,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2259,10 +3131,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -2278,10 +3157,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -2297,10 +3183,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_color-mode.scss",
       "AssetKind": "All",
@@ -2316,10 +3209,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -2335,10 +3235,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -2354,10 +3261,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -2373,10 +3287,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -2392,10 +3313,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -2411,10 +3339,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -2430,10 +3365,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -2449,10 +3391,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -2468,10 +3417,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -2487,10 +3443,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2506,10 +3469,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -2525,10 +3495,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -2544,10 +3521,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -2563,10 +3547,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -2582,10 +3573,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -2601,10 +3599,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -2620,10 +3625,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2639,10 +3651,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -2658,10 +3677,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -2677,10 +3703,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/jquery/jquery.js",
       "AssetKind": "All",
@@ -2696,10 +3729,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -2715,10 +3755,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -2734,10 +3781,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -2753,10 +3807,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -2772,10 +3833,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "TechStoreWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "SourceId": "TechStoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\",
+>>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
       "BasePath": "_content/TechStoreWebApplication",
       "RelativePath": "lib/jquery/jquery.slim.min.map",
       "AssetKind": "All",

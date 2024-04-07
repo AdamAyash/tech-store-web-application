@@ -1,12 +1,13 @@
 ﻿namespace TechStoreWebApplication.Database
 {
-    #region
-    using Microsoft.EntityFrameworkCore;
     using TechStoreWebApplication.Models;
-    #endregion
+    #region
+    using System.IO.Pipelines;
+	using AutoDjambazi.Common;
+	#endregion
 
-    /// <summary></summary>
-    public class TechStoreDbContext : DbContext
+	/// <summary></summary>
+	public class DbInitializer
     {
         //-------------------------
         //Constants:
@@ -15,8 +16,6 @@
         //-------------------------
         //Members:
         //-------------------------
-        public DbSet<User> Users { get; set; }
-        public DbSet<Category> Categories { get; set; }
 
         //-------------------------
         //Properties:
@@ -25,18 +24,27 @@
         //-------------------------
         //Constructor/Destructor:
         //-------------------------
-        public TechStoreDbContext(DbContextOptions<TechStoreDbContext> options)
-            : base(options)
-        {
-        }
 
         //-------------------------
         //Methods:
         //-------------------------
+        public static void Seed(IApplicationBuilder applicationBuilder)
+        {
+            WebAppDbContext context = applicationBuilder.ApplicationServices.CreateScope().ServiceProvider.GetRequiredService<WebAppDbContext>();
+
+            if (!context.Categories.Any())
+            {
+                context.AddRange
+                (
+                    new Category() { Name = Messages.MSG_COMPUTER_CATEGORY }
+                );
+            }
+
+            context.SaveChanges();
+        }
 
         //-------------------------
         //Overrides:
         //-------------------------
     }
 }
-

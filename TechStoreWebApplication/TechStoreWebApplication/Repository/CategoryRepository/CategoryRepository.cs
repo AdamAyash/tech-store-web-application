@@ -1,0 +1,49 @@
+﻿namespace TechStoreWebApplication.Repository.CategoryRepository
+{
+    using TechStoreWebApplication.Database;
+    #region
+    using TechStoreWebApplication.Models;
+    #endregion
+
+    /// <summary></summary>
+    public class CategoryRepository : ICategoryRepository
+	{
+		//-------------------------
+		//Constants:
+		//-------------------------
+
+		//-------------------------
+		//Members:
+		//-------------------------
+
+		//-------------------------
+		//Properties:
+		//-------------------------
+		public WebAppDbContext DbContext { get; set; }
+
+		//-------------------------
+		//Constructor/Destructor:
+		//-------------------------
+		public CategoryRepository(WebAppDbContext dbContext)
+		{
+			DbContext = dbContext;
+		}
+
+		//-------------------------
+		//Methods:
+		//-------------------------
+
+		//-------------------------
+		//Overrides:
+		//-------------------------
+		public IEnumerable<Category> GetCategories()
+		{
+			return DbContext.Categories.ToList();
+		}
+
+		public Category? GetCategory(int ID)
+		{
+			return DbContext.Categories.FirstOrDefault(c => c.ID == ID);
+		}
+	}
+}

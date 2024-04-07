@@ -1,12 +1,10 @@
-﻿namespace TechStoreWebApplication.Database
+﻿namespace TechStoreWebApplication.Models
 {
     #region
-    using Microsoft.EntityFrameworkCore;
-    using TechStoreWebApplication.Models;
     #endregion
 
     /// <summary></summary>
-    public class TechStoreDbContext : DbContext
+    public class Category
     {
         //-------------------------
         //Constants:
@@ -15,8 +13,8 @@
         //-------------------------
         //Members:
         //-------------------------
-        public DbSet<User> Users { get; set; }
-        public DbSet<Category> Categories { get; set; }
+        public int ID { get; set; }
+        public required string Name { get; set; }
 
         //-------------------------
         //Properties:
@@ -25,10 +23,6 @@
         //-------------------------
         //Constructor/Destructor:
         //-------------------------
-        public TechStoreDbContext(DbContextOptions<TechStoreDbContext> options)
-            : base(options)
-        {
-        }
 
         //-------------------------
         //Methods:
@@ -39,4 +33,3 @@
         //-------------------------
     }
 }
-
