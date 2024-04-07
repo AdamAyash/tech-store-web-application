@@ -6,13 +6,13 @@
     
         public class LoginPageController : Controller
         {
-            public IActionResult Login()
+            public IActionResult LogIn()
             {
                 return View();
             }
 
             [HttpPost]
-            public IActionResult Login(string username, string password)
+            public IActionResult LogIn(string username, string password)
             {
                 if (IsValidUser(username, password))
                 {

@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
-        "projectName": "TechStoreWebApplication",
-        "projectPath": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
-        "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\obj\\",
-=======
     "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {}
   },
   "projects": {
@@ -25,18 +12,13 @@
         "projectPath": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
         "packagesPath": "C:\\Users\\mobir\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\obj\\",
->>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\Pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "C:\\Users\\mobir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,11 +87,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
->>>>>>> 4740cc05e41b416908b80875ac2777d5463454bb
         }
       }
     }

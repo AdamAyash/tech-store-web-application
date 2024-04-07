@@ -58,12 +58,12 @@
   width: 200px;
   color: white;
   font-size: 20px;
-  background-color: #9A89D1;
+  background-color: #6495ED;
 }
 
 .btn-secondary:hover {
   color: white;
-  background-color: #AC99EA;
+  background-color: #0047AB;
 }
 
 .card-body {

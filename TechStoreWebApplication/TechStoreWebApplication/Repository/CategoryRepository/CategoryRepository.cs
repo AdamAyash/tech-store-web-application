@@ -19,12 +19,12 @@
 		//-------------------------
 		//Properties:
 		//-------------------------
-		public WebAppDbContext DbContext { get; set; }
+		public TechStoreDbContext DbContext { get; set; }
 
 		//-------------------------
 		//Constructor/Destructor:
 		//-------------------------
-		public CategoryRepository(WebAppDbContext dbContext)
+		public CategoryRepository(TechStoreDbContext dbContext)
 		{
 			DbContext = dbContext;
 		}

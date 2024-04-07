@@ -1,9 +1,8 @@
 ﻿namespace TechStoreWebApplication.Database
 {
-    using TechStoreWebApplication.Models;
     #region
-    using System.IO.Pipelines;
-	using AutoDjambazi.Common;
+    using TechStoreWebApplication.Models;
+    using AutoDjambazi.Common;
 	#endregion
 
 	/// <summary></summary>
@@ -30,7 +29,7 @@
         //-------------------------
         public static void Seed(IApplicationBuilder applicationBuilder)
         {
-            WebAppDbContext context = applicationBuilder.ApplicationServices.CreateScope().ServiceProvider.GetRequiredService<WebAppDbContext>();
+            TechStoreDbContext context = applicationBuilder.ApplicationServices.CreateScope().ServiceProvider.GetRequiredService<TechStoreDbContext>();
 
             if (!context.Categories.Any())
             {

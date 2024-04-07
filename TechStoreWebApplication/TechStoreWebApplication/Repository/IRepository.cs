@@ -7,6 +7,6 @@ namespace TechStoreWebApplication.Repository
 
     public interface IRepository
 	{
-        public WebAppDbContext DbContext { get; set; }
+        public TechStoreDbContext DbContext { get; set; }
     }
 }
