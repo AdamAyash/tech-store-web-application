@@ -1,7 +1,8 @@
-﻿namespace TechStoreWebApplication.Models
+﻿namespace TechStoreWebApplication.Database
 {
     #region
     using Microsoft.EntityFrameworkCore;
+    using TechStoreWebApplication.Models;
     #endregion
 
     /// <summary></summary>
@@ -15,6 +16,7 @@
         //Members:
         //-------------------------
         public DbSet<User> Users { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
         //-------------------------
         //Properties:
@@ -35,9 +37,6 @@
         //-------------------------
         //Overrides:
         //-------------------------
-
-       
-
     }
 }
 

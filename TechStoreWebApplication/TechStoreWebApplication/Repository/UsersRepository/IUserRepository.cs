@@ -1,10 +1,12 @@
-﻿using System;
-using TechStoreWebApplication.Models;
-
-namespace Repository
+﻿namespace Repository
 {
-    public interface IUserRepository
-    {
+	#region
+	using System;
+	using TechStoreWebApplication.Models;
+	using TechStoreWebApplication.Repository;
+	#endregion
+	public interface IUserRepository : IRepository
+	{
         User GetUser(int id);
         IEnumerable<User> GetAllUser();
         void Add(User user);

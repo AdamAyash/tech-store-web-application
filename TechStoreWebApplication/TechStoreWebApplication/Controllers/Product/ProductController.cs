@@ -1,13 +1,15 @@
-﻿namespace AutoDjambazi.Common
+﻿namespace TechStoreWebApplication.Controllers.Product
 {
-	public static class Messages
-	{
-        //-------------------------
-        //Constants:
-        //-------------------------
-        public const string MSG_WEBISTE_TITLE = "Title";
+	#region
+	using Microsoft.AspNetCore.Mvc;
+	#endregion
 
-		public const string MSG_COMPUTER_CATEGORY= "Компютри";
+	/// <summary></summary>
+	public class ProductController : Controller
+	{
+		//-------------------------
+		//Constants:
+		//-------------------------
 
 		//-------------------------
 		//Members:
@@ -24,6 +26,10 @@
 		//-------------------------
 		//Methods:
 		//-------------------------
+		public IActionResult Index()
+		{
+			return View();
+		}
 
 		//-------------------------
 		//Overrides:
