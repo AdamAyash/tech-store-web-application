@@ -9,8 +9,8 @@ using TechStoreWebApplication.Models;
 
 namespace TechStoreWebApplication.Migrations
 {
-    [DbContext(typeof(WebAppDbContext))]
-    partial class WebAppDbContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(TechStoreDbContext))]
+    partial class TechStoreDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {

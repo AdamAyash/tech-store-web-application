@@ -10,7 +10,7 @@ using TechStoreWebApplication.Models;
 
 namespace TechStoreWebApplication.Migrations
 {
-    [DbContext(typeof(WebAppDbContext))]
+    [DbContext(typeof(TechStoreDbContext))]
     [Migration("20240324183228_initialsetup")]
     partial class initialsetup
     {

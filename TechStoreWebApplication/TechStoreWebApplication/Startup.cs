@@ -4,7 +4,7 @@ using TechStoreWebApplication.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<WebAppDbContext>
+builder.Services.AddDbContext<TechStoreDbContext>
     (options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
