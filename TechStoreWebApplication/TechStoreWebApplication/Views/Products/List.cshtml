@@ -1,0 +1,14 @@
+﻿@model ProductViewModel
+
+<div class="container">
+	<div class="h2">@Model.Category.Name</div>
+
+	<div class="row products-of-the-week">
+		<div class="row row-cols-1 row-cols-md-3 g-4">
+			@foreach (var product in Model.Products.ToList())
+			{
+				<partial name="_Card" model="@product"></partial>
+			}
+		</div>
+	</div>
+</div>

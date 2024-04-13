@@ -1,6 +1,8 @@
-﻿<div class="col">
+﻿@model Product
+
+<div class="col">
 	<div class="card product-card">
-		<img src="~/Images/computer.png" class="card-img-top" alt="">
+		<img src="@Model.ImageUrl" alt="">
 		<div class="card-body pie-button">
 			<div class="d-flex justify-content-between mt-2">
 				<div container>
@@ -13,7 +15,7 @@
 					</div>
 					<div class"row">
 						<div class="col">
-							<h3 class="price">1010.24 лв.</h3>
+							<h3 class="price">@Model.Price лв.</h3>
 						</div>
 					</div>
 				</div>

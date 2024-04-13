@@ -8,7 +8,8 @@
 		<ul class="dropdown-menu">
 			@foreach (var category in Model)
 			{
-				<li><a class="dropdown-item" href="#">@category.Name</a></li>
+				<li><a asp-controller="Products" asp-action="List"
+					asp-route-category="@category.ID" class="dropdown-item">@category.Name</a></li>
 			}
 		</ul>
 </ul>
