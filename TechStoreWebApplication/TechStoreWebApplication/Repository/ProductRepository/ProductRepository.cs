@@ -50,7 +50,7 @@
 
 		public Product? GetProductByID(int nId)
 		{
-			return techStoreDbContext.Products.FirstOrDefault(p => p.CategoryID == nId);
+			return techStoreDbContext.Products.FirstOrDefault(p => p.ID == nId);
 		}
 		
 	}

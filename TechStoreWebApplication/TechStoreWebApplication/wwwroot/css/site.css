@@ -175,3 +175,15 @@
 .sr-only {
   text-align: center;
 }
+
+.product-of-the-week {
+  color: white;
+}
+
+section {
+  color: white;
+}
+
+.product {
+  padding-top: 50px;
+}
