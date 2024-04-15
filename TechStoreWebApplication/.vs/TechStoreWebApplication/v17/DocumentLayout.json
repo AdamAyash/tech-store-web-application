@@ -1,70 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\views\\productdetails\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\views\\productdetails\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\pavel\\documents\\github\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Migrations\\20240414132410_ProductsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechStoreWebApplication\\Migrations\\20240414132410_ProductsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\database\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\database\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\controllers\\product\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\product\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\controllers\\productdetails\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\productdetails\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\repository\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\repository\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\controllers\\loginpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\loginpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\pavel\\documents\\github\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,225 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Startup.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Startup.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Startup.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T17:44:21.277Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\appsettings.json",
-              "RelativeToolTip": "TechStoreWebApplication\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-13T13:03:37.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T12:57:10.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TechStoreWebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T12:56:55.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Card.cshtml",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Shared\\_Card.cshtml",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Views\\Shared\\_Card.cshtml",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Shared\\_Card.cshtml",
-              "RelativeToolTip": "TechStoreWebApplication\\Views\\Shared\\_Card.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T12:37:54.085Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Show.cshtml",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\ProductDetails\\Show.cshtml",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Views\\ProductDetails\\Show.cshtml",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\ProductDetails\\Show.cshtml",
-              "RelativeToolTip": "TechStoreWebApplication\\Views\\ProductDetails\\Show.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAawEMAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T12:06:04.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\ProductDetails\\ProductDetailsController.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\ProductDetails\\ProductDetailsController.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\ProductDetails\\ProductDetailsController.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\ProductDetails\\ProductDetailsController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAADAAAA",
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T12:06:32.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TechStoreWebApplication\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T11:34:24.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Products\\List.cshtml",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Views\\Products\\List.cshtml",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Views\\Products\\List.cshtml",
-              "RelativeToolTip": "TechStoreWebApplication\\Views\\Products\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T12:40:41.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Repository\\ProductRepository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Repository\\ProductRepository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Repository\\ProductRepository\\ProductRepository.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Repository\\ProductRepository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T12:46:34.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginPageController.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\LoginPageController.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\LoginPageController.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\LoginPageController.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\LoginPageController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T10:50:00.724Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 185,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240414132410_ProductsUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Migrations\\20240414132410_ProductsUpdate.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Migrations\\20240414132410_ProductsUpdate.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Migrations\\20240414132410_ProductsUpdate.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Migrations\\20240414132410_ProductsUpdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:24:10.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\Product.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:18:19.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\Product\\ProductsController.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\Product\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\Product\\ProductsController.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\Product\\ProductsController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:18:13.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Database\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Database\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Database\\DbInitializer.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Database\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:04:29.593Z",
+              "WhenOpened": "2024-04-15T15:12:52.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.scss",
-              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.scss",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\wwwroot\\css\\site.scss",
-              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\css\\site.scss",
-              "RelativeToolTip": "TechStoreWebApplication\\wwwroot\\css\\site.scss",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAE4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-04-13T12:49:32.982Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\User.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:12:13.053Z",
               "EditorCaption": ""
             }
           ]
