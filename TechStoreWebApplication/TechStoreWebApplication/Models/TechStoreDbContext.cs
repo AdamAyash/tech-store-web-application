@@ -18,15 +18,16 @@
         public DbSet<User> Users { get; set; }
         public DbSet<Category> Categories { get; set; }
 		public DbSet<Product> Products { get; set; }
+        public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
 
-		//-------------------------
-		//Properties:
-		//-------------------------
+        //-------------------------
+        //Properties:
+        //-------------------------
 
-		//-------------------------
-		//Constructor/Destructor:
-		//-------------------------
-		public TechStoreDbContext(DbContextOptions<TechStoreDbContext> options)
+        //-------------------------
+        //Constructor/Destructor:
+        //-------------------------
+        public TechStoreDbContext(DbContextOptions<TechStoreDbContext> options)
             : base(options)
         {
         }

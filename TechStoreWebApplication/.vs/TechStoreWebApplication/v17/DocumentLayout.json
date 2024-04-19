@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\pavel\\documents\\github\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\pavel\\documents\\github\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\repository\\shoppingcart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\repository\\shoppingcart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\repository\\shoppingcart\\ishoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\repository\\shoppingcart\\ishoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\techstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\techstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|c:\\users\\mobir\\documents\\projects\\tech-store-web-application\\techstorewebapplication\\techstorewebapplication\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B895A-DCD2-47E2-8947-9880119BE4FE}|TechStoreWebApplication\\TechStoreWebApplication.csproj|solutionrelative:techstorewebapplication\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +29,76 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 215,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 174,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SignUpController.cs",
-              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\SignUpController.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Controllers\\SignUpController.cs",
-              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Controllers\\SignUpController.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Controllers\\SignUpController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Startup.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Startup.cs",
+              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Startup.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:12:52.686Z",
+              "WhenOpened": "2024-04-19T11:27:35.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Pavel\\Documents\\GitHub\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\User.cs",
-              "RelativeToolTip": "TechStoreWebApplication\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Repository\\ShoppingCart\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Repository\\ShoppingCart\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Repository\\ShoppingCart\\ShoppingCart.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Repository\\ShoppingCart\\ShoppingCart.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:12:13.053Z",
+              "WhenOpened": "2024-04-19T11:21:11.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Repository\\ShoppingCart\\IShoppingCart.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Repository\\ShoppingCart\\IShoppingCart.cs",
+              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Repository\\ShoppingCart\\IShoppingCart.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Repository\\ShoppingCart\\IShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:15:17.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\TechStoreDbContext.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\TechStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\TechStoreDbContext.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\TechStoreDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:12:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApplication\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "TechStoreWebApplication\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:10:08.518Z",
               "EditorCaption": ""
             }
           ]
