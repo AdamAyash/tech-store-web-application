@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TechStoreWebApplication.Models;
 using TechStoreWebApplication.Repository.ProductRepository;
 using TechStoreWebApplication.Repository.ShoppingCart;
 using TechStoreWebApplication.ViewModels;
@@ -24,6 +25,17 @@ namespace TechStoreWebApplication.Controllers
             var shoppingCartViewModel = new ShoppingCartViewModel(shoppingCart, shoppingCart.GetShoppingCartTotal());
 
             return View(shoppingCartViewModel);
+        }
+
+        public RedirectToActionResult AddToShoppingCart(int prodcutId)
+        {
+            var selectedPie = productRepository.GetAllProduct().FirstOrDefault(p => p.ID  == prodcutId);
+
+            if (selectedPie != null)
+            {
+                shoppingCart.AddToCart(selectedPie);
+            }
+            return RedirectToAction("Index");
         }
     }
 }

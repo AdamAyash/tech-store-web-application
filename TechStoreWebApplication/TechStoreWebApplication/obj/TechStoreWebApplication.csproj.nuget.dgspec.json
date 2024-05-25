@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {}
+    "C:\\Users\\aayas\\OneDrive\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {
+    "C:\\Users\\aayas\\OneDrive\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\aayas\\OneDrive\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
         "projectName": "TechStoreWebApplication",
-        "projectPath": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
-        "packagesPath": "C:\\Users\\mobir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\obj\\",
+        "projectPath": "C:\\Users\\aayas\\OneDrive\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\TechStoreWebApplication.csproj",
+        "packagesPath": "C:\\Users\\aayas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aayas\\OneDrive\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mobir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\aayas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,23 +45,31 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "EntityFramework": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.4.4, )"
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -92,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

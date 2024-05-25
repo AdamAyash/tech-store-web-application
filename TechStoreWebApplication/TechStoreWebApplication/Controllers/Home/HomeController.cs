@@ -4,7 +4,6 @@
 	using Microsoft.AspNetCore.Mvc;
 	#endregion
 
-	/// <summary></summary>
 	public class HomeController : Controller
 	{
 		//-------------------------

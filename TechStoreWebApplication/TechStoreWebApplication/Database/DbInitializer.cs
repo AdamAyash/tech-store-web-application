@@ -35,8 +35,14 @@
 			{
 				context.AddRange
 				(
-					new Category() { Name = Messages.MSG_COMPUTER_CATEGORY }
-				);
+					new Category() { Name = Messages.MSG_COMPUTER_CATEGORY },
+
+                    new Category() { Name = "Телефони" },
+
+                    new Category() { Name = "Процесори" },
+
+                    new Category() { Name = "ВидеоКарти" }
+                );
 			}
 
 			if (!context.Categories.Any())
@@ -44,15 +50,9 @@
 				context.AddRange
 				(
 					new Product() { CategoryID = 1, ImageUrl = "https://ardes.bg/uploads/original/acer-aspire-7-performance-a715-76g-452578.jpg" },
+                    new Product() { CategoryID = 1, ImageUrl = "https://ardes.bg/uploads/original/acer-aspire-7-performance-a715-76g-452578.jpg" }
 
-					new Product() { CategoryID = 1, ImageUrl = "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\image.jpg" },
-
-					new Product() { CategoryID = 1, ImageUrl = "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\image.jpg" },
-
-					new Product() { CategoryID = 1, ImageUrl = "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\image.jpg" },
-
-					new Product() { CategoryID = 1, ImageUrl = "C:\\Users\\mobir\\Documents\\Projects\\tech-store-web-application\\TechStoreWebApplication\\TechStoreWebApplication\\wwwroot\\Images\\image.jpg" }
-				);
+                );
 			}
 
 			context.SaveChanges();
