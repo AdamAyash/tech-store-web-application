@@ -37,5 +37,16 @@ namespace TechStoreWebApplication.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        public RedirectToActionResult RemoveFromShoppingCart(int id)
+        {
+            var selectedProduct = productRepository.GetAllProduct().FirstOrDefault(p => p.ID == id);
+
+            if (selectedProduct != null)
+            {
+                shoppingCart.RemoveFromCart(selectedProduct);
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

@@ -31,7 +31,7 @@ namespace BethanysPieShop.Controllers
 
             if (_shoppingCart.ShoppingCartItems.Count == 0)
             {
-                ModelState.AddModelError("", "Your cart is empty, add some pies first");
+                ModelState.AddModelError("", "Your cart is empty, add some products first");
             }
 
             if (ModelState.IsValid)
@@ -45,7 +45,7 @@ namespace BethanysPieShop.Controllers
 
         public IActionResult CheckoutComplete()
         {
-            ViewBag.CheckoutCompleteMessage = "Thanks for your order. You'll soon enjoy our delicious pies!";
+            ViewBag.CheckoutCompleteMessage = "Thanks for your order. You'll soon enjoy your new tech!";
             return View();
         }
     }

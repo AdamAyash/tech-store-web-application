@@ -16,11 +16,12 @@
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-text">@line.Quantity x @line.Product.Name</h5>
+                            <h5 style="color: white" class="card-text">@line.Quantity x @line.Product.Name</h5>
                             <div class="d-flex justify-content-between">
-                                <h6>@line.Product.Description</h6>
-                                <h2>@line.Product.Price.ToString("c")</h2>
+                                <h6 style="color: white">@line.Product.Description</h6>
+                                <h2 style="color: white">@line.Product.Price.ToString("c")</h2>
                             </div>
+                            <a asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart" asp-route-id="@line.Product.ID" class="btn btn-primary">Remove from cart</a>
                         </div>
                     </div>
                 </div>
@@ -30,8 +31,8 @@
     <div class="col-4">
         <div class="card shopping-cart-card p-3">
             <div class="row">
-                <h4 class="col">Total:</h4>
-                <h4 class="col text-end">@Model.ShoppingCartTotal.ToString("c")</h4>
+                <h4 style="color: white" class="col">Total:</h4>
+                <h4 style="color: white" class="col text-end">@Model.ShoppingCartTotal.ToString("c")</h4>
             </div>
             <hr />
             <div class="text-center d-grid">

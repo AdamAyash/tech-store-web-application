@@ -12,7 +12,7 @@ namespace TechStoreWebApplication.ViewModels
         public ShoppingCartViewModel(IShoppingCart shoppingCart, decimal shoppingCartTotal)
         {
             ShoppingCart = shoppingCart;
-            ShoppingCartTotal = ShoppingCartTotal;
+            ShoppingCartTotal = shoppingCartTotal;
         }
     }
 }
