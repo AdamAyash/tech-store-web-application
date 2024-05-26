@@ -17,95 +17,95 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TechStoreWebApplication
 build_property.RootNamespace = TechStoreWebApplication
-build_property.ProjectDir = C:\Users\aayas\OneDrive\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\
+build_property.ProjectDir = C:\Users\Pavel\Documents\GitHub\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\aayas\OneDrive\Documents\Projects\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication
+build_property.MSBuildProjectDirectory = C:\Users\Pavel\Documents\GitHub\tech-store-web-application\TechStoreWebApplication\TechStoreWebApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Home/Index.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/LoginPage/LogIn.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/LoginPage/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5QYWdlXExvZ0luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Order/Checkout.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Order/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Order/CheckoutComplete.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Order/CheckoutComplete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXRDb21wbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/ProductDetails/Show.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/ProductDetails/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcU2hvdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Products/List.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Products/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/Components/CategoryMenu/Default.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/Components/CategoryMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlNZW51XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_Card.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_Card.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_Carousel.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/ShoppingCart/Index.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/ShoppingCart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/_ViewImports.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aayas/OneDrive/Documents/Projects/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/_ViewStart.cshtml]
+[C:/Users/Pavel/Documents/GitHub/tech-store-web-application/TechStoreWebApplication/TechStoreWebApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
